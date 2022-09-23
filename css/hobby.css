@@ -1,0 +1,39 @@
+.nav{
+	width: 90%;
+	color: #FFFFFF;
+	display: flex;
+	justify-content: space-between;
+	padding: 40px 0;
+	margin: 0 auto;	
+}
+.name h2{
+    font-size: 24px;
+    letter-spacing: 5px;
+}
+.menu b{
+	color: powderblue;
+}
+.menu a{
+	color: #FFFFFF;
+	
+}
+.nav ul li {
+    display: inline-block;
+    margin-left: 40px;
+	margin-right: 15px;
+}
+.she h2{
+	color: #FFFFFF;
+	text-align: center;
+}
+.im img{
+	width: 400px;
+	height: 300px;
+	margin-left: 80px;
+	margin-top: 20px;
+}
+.im p{
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: 800;
+}
